@@ -1,102 +1,102 @@
-deform v.
-transplant v.
-productive adj.
-fossilize v.
-mass adj. n.
-cultural adj.
-objective adj.
-hydropower n.
-gasline	n.
-petroleum  n.
-cave n.  v.
-carven 	n.
-oceanographer	n.
-interglacial	n.
-economic	adj.
-economically	adv.
-transportation	n.
-manufacture		n.
-manufacturer	n.
-marine	adj.
-submarine	n.
-extinct	adj.
-native	n.	adj.
-erode	v.
-erosion	n.
-architect n.
-colonial	adj.
-colonize	v.
-meterorite 	n.
-desertification	n.
-storefront	n.
-politician	n.
-plateau		n.
-exposition	n.
-exposure	n.
-completely	adv.
-rate	n.	v.
-pheromone 	n. 
-expression	n.
-express v.	n.
-markedly	adv.
-crafts	n.
-craftspeople	n.
-artison	n.
-instrument n.
-substance	n.
-range	n.	v.
-ranging	n.
-quantity	n.
-primary	adj.
-considerable	adj.
-pacific	adj.
-grassland	n.
-carbonhydrate	n.
-carbonate	n.	v.
-carboniferous	adj.
-carbonic	adj.
-predator	n.
-predatory	adj.
-particle	n.
-advance 	n.	v. 	adj.
-diversion	n.
-diverity	n.
-democratic	adj.
-grain	n. 
-draw	n. 	v.
-laborious	adj.
-labor n.
-crater n.
-volcano	n.
-volcanic adj.
-rural 	adj.
-dioxide	n.
-cetacean n.
-organically adv.
-removal	n.
-steam	n.
-folk	adj.	n.
-fiber n.
-relate 	v.
-settler	n.
-settle	v.
-settlement	n.
-paleolithic	adj.
-affect v.
-plain	n. 	adj.
-interior 	n.	adj.
-deposit	n.
-deposition	n.
-crow	n.
-promote v.
-landscape	n.
-evolutionary	n.
-evolve	v.
-compose	v.
-composition	n.
-composer	n.
-trail	n.
-religion	n.
-oak	n.
-crust n.
+deform v.使形变 使畸变
+transplant v.移民 移居
+productive adj.多产的
+fossilize v.化石作用
+mass adj.大规模的 n.块
+cultural adj.有素养的
+objective adj.客观的
+hydropower n.水力得到的电力
+gasline	n.汽油
+petroleum  n.汽油
+cave n.洞穴  v.挖洞
+carven 	n.巨穴
+oceanographer	n.海洋学家
+interglacial	n.两个冰川时期之间的温暖时间
+economic	adj.经济的，省钱的
+economically	adv.节俭地
+transportation	n.运输
+manufacture		n.批量生产
+manufacturer	n.批发商
+marine	adj.海洋的
+submarine	n.海底生物
+extinct	adj.灭绝的
+native	n.本国人	adj.本国的，自带的，与生俱来的
+erode	v.侵蚀
+erosion	n.侵蚀
+architect n.建筑师
+colonial	adj.殖民地的
+colonize	v.使成为殖民地
+meterorite 	n.陨石
+desertification	n.荒漠化
+storefront	n.商店
+politician	n.政治家
+plateau		n.平原
+exposition	n.展览
+exposure	n.暴露
+completely	adv.彻底地
+rate	n.比率	v.打分 评分
+pheromone 	n. 外激素
+expression	n.表达
+express v.表达	n.快递
+markedly	adv.显著地
+crafts	n.技艺
+craftspeople	n.工匠
+artison	n.工匠
+instrument n.乐器
+substance	n.物质
+range	n.山脉	v.排列
+ranging	n.测距
+quantity	n.数量
+primary	adj.首要的 主要的
+considerable	adj.可观的
+pacific	adj.温和的
+grassland	n.草原
+carbonhydrate	n.碳水化合物
+carbonate	n.碳酸盐	v.使变成碳酸盐
+carboniferous	adj. 碳的 媒的？？
+carbonic	adj.含碳的
+predator	n.捕食者
+predatory	adj.捕食的
+particle	n.粒子
+advance 	n.前进，促进	v. 促进	adj.先进的
+diversion	n.移居？？
+diverity	n.多样性
+democratic	adj.民主的
+grain	n. 谷物 颗粒
+draw	n.平局，吸引人的东西 	v.画
+laborious	adj.费力的
+labor n.劳工
+crater n.火山口
+volcano	n.火山
+volcanic adj.火山的
+rural 	adj.乡下的 乡村的
+dioxide	n.二氧化物
+cetacean n.鲸
+organically adv.有机耕作地
+removal	n.移民
+steam	n.水蒸气
+folk	adj.民间的	n.人民
+fiber n.纤维
+relate 	v.把 联系起来
+settler	n.移居者
+settle	v.定位 解决
+settlement	n.解决？？
+paleolithic	adj.旧石器时代的
+affect v.影响
+plain	n. 平原	adj.简单的
+interior 	n.内政	adj.内部的
+deposit	n.存款
+deposition	n.罢免
+crow	n.乌鸦
+promote v.晋级
+landscape	n.地质地貌
+evolutionary adj.渐变的
+evolve	v.改革
+compose	v.作曲 组成
+composition	n.作品
+composer	n.作曲家
+trail	n.轨迹 踪迹
+religion	n.宗教
+oak	n.橡树
+crust n.地壳
 
